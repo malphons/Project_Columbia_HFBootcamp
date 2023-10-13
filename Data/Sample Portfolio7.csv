@@ -1,0 +1,17 @@
+Symbol,Name,Allocation,AssetClass,Sector,Industry,InstrumentType,vqTheme
+AVGO,Broadcom Inc,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+CSCO,Cisco Systems Inc,6.53,Equities,Information Technology,Communications Equipment,Common Stock,5G & Internet of Things
+DXCM,DexCom Inc,6.53,Equities,Health Care,Health Care Equipment & Supplies,Common Stock,5G & Internet of Things
+LSCC,Lattice Semiconductor Corporation,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+PTC,PTC Inc,6.53,Equities,Information Technology,Software,Common Stock,5G & Internet of Things
+DE,Deere & Company,6.53,Equities,Industrials,Machinery,Common Stock,AI & Analytics
+MSFT,Microsoft Corporation,6.53,Equities,Information Technology,Software,Common Stock,AI & Analytics
+NOW,ServiceNow Inc,6.53,Equities,Information Technology,Software,Common Stock,AI & Analytics
+ON,ON Semiconductor Corporation,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+SNPS,Synopsys Inc,6.53,Equities,Information Technology,Software,Common Stock,AI & Analytics
+AGG,iShares Core U.S. Aggregate Bond ETF,2,Fixed Income,Other,Intermediate Core Bond,ETF,-
+ADBE,Adobe Systems Incorporated,6.53,Equities,Information Technology,Software,Common Stock,Cloud Computing
+AMZN,Amazon.com Inc,6.53,Equities,Consumer Discretionary,Internet & Direct Marketing Retail,Common Stock,Cloud Computing
+ANET,Arista Networks,6.53,Equities,Information Technology,Communications Equipment,Common Stock,Cloud Computing
+NTAP,NetApp Inc,6.53,Equities,Information Technology,"Technology Hardware, Storage & Peripherals",Common Stock,Cloud Computing
+WDAY,Workday Inc,6.53,Equities,Information Technology,Software,Common Stock,Cloud Computing

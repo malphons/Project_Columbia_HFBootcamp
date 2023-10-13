@@ -1,0 +1,22 @@
+Symbol,Name,Allocation,AssetClass,Sector,Industry,InstrumentType,vqTheme
+MSFT,Microsoft Corporation,4.9,Equities,Information Technology,Software,Common Stock,Cloud Computing
+NFLX,Netflix Inc,4.9,Equities,Communication Services,Entertainment,Common Stock,Cloud Computing
+NOW,ServiceNow Inc,4.9,Equities,Information Technology,Software,Common Stock,Cloud Computing
+ORCL,Oracle Corporation,4.9,Equities,Information Technology,Software,Common Stock,Cloud Computing
+VEEV,Veeva Systems Inc Class A,4.9,Equities,Health Care,Health Care Technology,Common Stock,Cloud Computing
+ATEN,A10 Network,4.9,Equities,Information Technology,Software,Common Stock,CyberSecurity
+AVGO,Broadcom Inc,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,CyberSecurity
+CACI,CACI International Inc,4.9,Equities,Information Technology,IT Services,Common Stock,CyberSecurity
+CSCO,Cisco Systems Inc,4.9,Equities,Information Technology,Communications Equipment,Common Stock,CyberSecurity
+SAIC,Science Applications International Corp,4.9,Equities,Information Technology,IT Services,Common Stock,CyberSecurity
+ACN,Accenture plc,4.9,Equities,Information Technology,IT Services,Common Stock,AI & Analytics
+ISRG,Intuitive Surgical Inc,4.9,Equities,Health Care,Health Care Equipment & Supplies,Common Stock,AI & Analytics
+ON,ON Semiconductor Corporation,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+SNPS,Synopsys Inc,4.9,Equities,Information Technology,Software,Common Stock,AI & Analytics
+SPLK,Splunk Inc,4.9,Equities,Information Technology,Software,Common Stock,AI & Analytics
+AGG,iShares Core U.S. Aggregate Bond ETF,2,Fixed Income,Other,Intermediate Core Bond,ETF,-
+AKAM,Akamai Technologies Inc,4.9,Equities,Information Technology,IT Services,Common Stock,5G & Internet of Things
+BDC,Belden Inc,4.9,Equities,Information Technology,"Electronic Equipment, Instruments & Components",Common Stock,5G & Internet of Things
+GSAT,Globalstar Inc,4.9,Equities,Communication Services,Diversified Telecommunication Services,Common Stock,5G & Internet of Things
+LSCC,Lattice Semiconductor Corporation,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+ROK,Rockwell Automation Inc,4.9,Equities,Industrials,Electrical Equipment,Common Stock,5G & Internet of Things

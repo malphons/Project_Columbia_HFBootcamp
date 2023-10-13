@@ -1,0 +1,22 @@
+Symbol,Name,Allocation,AssetClass,Sector,Industry,InstrumentType,vqTheme
+AAPL,Apple Inc,4.9,Equities,Information Technology,"Technology Hardware, Storage & Peripherals",Common Stock,AI & Analytics
+ADI,Analog Devices Inc,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+HUBB,Hubbell Inc,4.9,Equities,Industrials,Electrical Equipment,Common Stock,AI & Analytics
+NVDA,NVIDIA Corporation,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+PTC,PTC Inc,4.9,Equities,Information Technology,Software,Common Stock,AI & Analytics
+ATEN,A10 Network,4.9,Equities,Information Technology,Software,Common Stock,CyberSecurity
+AVGO,Broadcom Inc,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,CyberSecurity
+CACI,CACI International Inc,4.9,Equities,Information Technology,IT Services,Common Stock,CyberSecurity
+CSCO,Cisco Systems Inc,4.9,Equities,Information Technology,Communications Equipment,Common Stock,CyberSecurity
+SAIC,Science Applications International Corp,4.9,Equities,Information Technology,IT Services,Common Stock,CyberSecurity
+AGG,iShares Core U.S. Aggregate Bond ETF,2,Fixed Income,Other,Intermediate Core Bond,ETF,-
+ADBE,Adobe Systems Incorporated,4.9,Equities,Information Technology,Software,Common Stock,Cloud Computing
+AMZN,Amazon.com Inc,4.9,Equities,Consumer Discretionary,Internet & Direct Marketing Retail,Common Stock,Cloud Computing
+ANET,Arista Networks,4.9,Equities,Information Technology,Communications Equipment,Common Stock,Cloud Computing
+NTAP,NetApp Inc,4.9,Equities,Information Technology,"Technology Hardware, Storage & Peripherals",Common Stock,Cloud Computing
+WDAY,Workday Inc,4.9,Equities,Information Technology,Software,Common Stock,Cloud Computing
+AKAM,Akamai Technologies Inc,4.9,Equities,Information Technology,IT Services,Common Stock,5G & Internet of Things
+BDC,Belden Inc,4.9,Equities,Information Technology,"Electronic Equipment, Instruments & Components",Common Stock,5G & Internet of Things
+GSAT,Globalstar Inc,4.9,Equities,Communication Services,Diversified Telecommunication Services,Common Stock,5G & Internet of Things
+LSCC,Lattice Semiconductor Corporation,4.9,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+ROK,Rockwell Automation Inc,4.9,Equities,Industrials,Electrical Equipment,Common Stock,5G & Internet of Things

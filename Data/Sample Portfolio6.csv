@@ -1,0 +1,17 @@
+Symbol,Name,Allocation,AssetClass,Sector,Industry,InstrumentType,vqTheme
+AAPL,Apple Inc,6.53,Equities,Information Technology,"Technology Hardware, Storage & Peripherals",Common Stock,AI & Analytics
+ADI,Analog Devices Inc,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+HUBB,Hubbell Inc,6.53,Equities,Industrials,Electrical Equipment,Common Stock,AI & Analytics
+NVDA,NVIDIA Corporation,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,AI & Analytics
+PTC,PTC Inc,6.53,Equities,Information Technology,Software,Common Stock,AI & Analytics
+AGG,iShares Core U.S. Aggregate Bond ETF,2,Fixed Income,Other,Intermediate Core Bond,ETF,-
+ANET,Arista Networks,6.53,Equities,Information Technology,Communications Equipment,Common Stock,5G & Internet of Things
+DXCM,DexCom Inc,6.53,Equities,Health Care,Health Care Equipment & Supplies,Common Stock,5G & Internet of Things
+GRMN,Garmin Ltd,6.53,Equities,Consumer Discretionary,Household Durables,Common Stock,5G & Internet of Things
+NXPI,NXP Semiconductors NV,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+RMBS,Rambus Inc,6.53,Equities,Information Technology,Semiconductors & Semiconductor Equipment,Common Stock,5G & Internet of Things
+ADBE,Adobe Systems Incorporated,6.53,Equities,Information Technology,Software,Common Stock,Cloud Computing
+CSCO,Cisco Systems Inc,6.53,Equities,Information Technology,Communications Equipment,Common Stock,Cloud Computing
+GOOGL,Alphabet Inc Class A,6.53,Equities,Communication Services,Interactive Media & Services,Common Stock,Cloud Computing
+NOW,ServiceNow Inc,6.53,Equities,Information Technology,Software,Common Stock,Cloud Computing
+NTAP,NetApp Inc,6.53,Equities,Information Technology,"Technology Hardware, Storage & Peripherals",Common Stock,Cloud Computing
